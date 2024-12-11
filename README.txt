@@ -41,9 +41,3 @@ The script outputs vary depending on the sub-question selected:
 
     For PCA questions in Question 1, outputs include eigenvalues, visual representations of principal components, and reconstructed images.
     For logistic Regression Model in Question 2, outputs include model training progress, accuracy metrics, confusion matrices, weight visualizations, and classification scores.
-
-If you encounter any issues or have questions, please refer to the contact information below.
-
-CONTACT INFORMATION:
-Ufuk Girginkaya
-ufuk.girginkaya@ug.bilkent.edu.tr
